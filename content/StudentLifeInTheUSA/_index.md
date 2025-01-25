@@ -32,8 +32,8 @@ International students may have the opportunity to work on campus or participate
 
 **Embracing student life in the USA will broaden your horizons and create lasting memories. Dive into the experience and make the most of your time abroad!**
 
-![International students enjoying campus life in the USA](https://www.student.com/articles/wp-content/uploads/2017/08/Student-Life-USA.jpg)
+![International students enjoying campus life in the USA](/images/student_life_1.jpg)
 
-![Infographic on student life in America](https://www.princetonreview.com/cms-content/StudentLifeInAmericaInfographic.jpg)
+![Infographic on student life in America](/images/student_life_2.jpg)
 
-![Group of international students in the USA](https://www.jeduka.com/storage/images/blogs/How-is-Student-Life-in-USA.jpg)
+![Group of international students in the USA](/images/student_life_3.jpg)
