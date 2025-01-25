@@ -1,6 +1,6 @@
 ---
-title: Contact
-featured_image: '/images/gravity_waves_big.jpg'
+title: Contact us
+featured_image: '/images/background.jpg'
 omit_header_text: true
 description: Get in Touch
 type: page
