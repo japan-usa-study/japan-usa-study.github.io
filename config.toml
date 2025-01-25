@@ -33,12 +33,12 @@ featured_image = '/images/background.jpg'
   [[menu.main]]
       name = "University selection"
      url = "/UniversitySelection/"
-      weight = 3
+      weight = 2
 
-# [[menu.main]]
-#      name = "Announcements" #previously jobs
-#      url = "/announcements/"
-#      weight = 3
+  [[menu.main]]
+      name = "Application process"
+     url = "/ApplicationProcess/"
+      weight = 3
 
 #  [[menu.main]]
 #      name = "Background"
