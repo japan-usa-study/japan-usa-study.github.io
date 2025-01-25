@@ -1,7 +1,6 @@
 baseURL = "http://datawaveproject.github.io/"
 languageCode = "en-us"
-# title = "Irrigation in the Earth System"
-featured_image: "/images/background.jpg"
+# title = "Japan USA study"
 theme = "ananke"
 googleAnalytics = "G-76NXT956MJ"
 
