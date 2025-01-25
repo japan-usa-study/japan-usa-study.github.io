@@ -13,6 +13,8 @@ Pursuing higher education in the United States can be expensive, but there are n
 ### Scholarships for International Students
 Scholarships are a great way to reduce the financial burden of studying abroad. Below are some popular scholarships for international students:
 
+![Scholarships for international students](/images/scholarships_usa.jpg)
+
 #### General Scholarships
 - **Fulbright Foreign Student Program**  
   A prestigious scholarship for graduate students, artists, and professionals from over 160 countries. It covers tuition, airfare, living expenses, and health insurance.  
@@ -49,17 +51,23 @@ PhD programs often come with robust funding packages:
 - **Institute of International Education (IIE) Scholarships**: Offers various grants and fellowships for international PhD students.  
   [Learn more](https://www.iie.org/)
 
+![Research assistant working in a lab](/images/research_assistant.jpg)
+
+
 ### Other Financial Resources
 - **Part-Time Work Opportunities**: International students on an F-1 visa can work up to 20 hours per week on campus. Check with your university for job openings.
 - **External Scholarships**: Organizations like [Scholarships.com](https://www.scholarships.com) and [Fastweb](https://www.fastweb.com) list numerous scholarships available to international students.
 - **Loan Options**: While not ideal, private loans tailored for international students are available through lenders like MPOWER Financing or Prodigy Finance.
 
+
+![Financial aid tips for students](/images/financial_aid_tips.jpg)
+
 ---
 
 **Investing in your education is an investment in your future. Explore these resources and funding opportunities to make your academic dreams a reality!**
 
-![Scholarships for international students](/images/scholarships_usa.jpg)
 
-![Financial aid tips for students](/images/financial_aid_tips.jpg)
 
-![Research assistant working in a lab](/images/research_assistant.jpg)
+
+
+
