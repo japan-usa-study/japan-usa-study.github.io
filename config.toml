@@ -30,10 +30,10 @@ featured_image = '/images/background.jpg'
     url = "/"
       weight = 1
 
- # [[menu.main]]
- #     name = "Team"
- #    url = "/team/"
- #     weight = 2
+  [[menu.main]]
+      name = "University selection"
+     url = "/UniversitySelection/"
+      weight = 3
 
 # [[menu.main]]
 #      name = "Announcements" #previously jobs
