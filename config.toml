@@ -40,20 +40,20 @@ featured_image = '/images/background.jpg'
      url = "/ApplicationProcess/"
       weight = 3
 
-#  [[menu.main]]
-#      name = "Background"
-#      url = "/background/"
-#      weight = 4
-
   [[menu.main]]
-      name = "Publications"
-      url = "/publications/"
+      name = "Financial support"
+     url = "/FinancialSupport/"
       weight = 4
 
   [[menu.main]]
-      name = "Resources"
-      url = "/resources/"
+      name = "Student life in the USA"
+      url = "/StudentLifeInTheUSA/"
       weight = 5
+
+  [[menu.main]]
+      name = "Other resources"
+      url = "/resources/"
+      weight = 6
     
 
   #[[menu.footer]]
