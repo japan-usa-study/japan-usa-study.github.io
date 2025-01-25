@@ -11,3 +11,5 @@ Are you a Japanese student dreaming of studying in the United States? You're in 
 Discover insights from Japanese students who’ve walked the path, explore scholarship opportunities, and get practical tips on applications, visas, housing, and more.
 
 Your dream of studying in the USA starts here. Let us help you make it a reality!
+
+![Michigan State University](/images/mainpage_msu.jpg)
