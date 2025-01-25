@@ -1,6 +1,6 @@
 baseURL = "http://datawaveproject.github.io/"
 languageCode = "en-us"
-title = "The DataWave Blog"
+# title = "Irrigation in the Earth System"
 theme = "ananke"
 googleAnalytics = "G-76NXT956MJ"
 
@@ -9,7 +9,7 @@ googleAnalytics = "G-76NXT956MJ"
   googleAnalytics = 'G-76NXT956MJ'
   #featured_image = '/images/gravity_waves_big.jpg'
   favicon = "/favicon-32x32.png"
-  site_logo = "/images/logo/banner_final_white.png"
+ # site_logo = "/images/logo/banner_final_white.png"
 
  [params.jobs]
     summary_truncate = 12  # How many characters to include in the summary of the team bios (large layout) before truncating
@@ -30,20 +30,20 @@ googleAnalytics = "G-76NXT956MJ"
     url = "/"
       weight = 1
 
-  [[menu.main]]
-      name = "Team"
-      url = "/team/"
-      weight = 2
+ # [[menu.main]]
+ #     name = "Team"
+ #    url = "/team/"
+ #     weight = 2
 
-  [[menu.main]]
-      name = "Jobs"
-      url = "/jobs/"
-      weight = 3
+# [[menu.main]]
+#      name = "Announcements" #previously jobs
+#      url = "/announcements/"
+#      weight = 3
 
-  [[menu.main]]
-      name = "Background"
-      url = "/background/"
-      weight = 4
+#  [[menu.main]]
+#      name = "Background"
+#      url = "/background/"
+#      weight = 4
 
   [[menu.main]]
       name = "Publications"
@@ -51,14 +51,9 @@ googleAnalytics = "G-76NXT956MJ"
       weight = 4
 
   [[menu.main]]
-      name = "Blog"
-      url = "/blog/"
+      name = "Resources"
+      url = "/resources/"
       weight = 5
-
-  [[menu.main]]
-      name = "Data"
-      url = "/data/"
-      weight = 6
     
 
   #[[menu.footer]]
@@ -68,4 +63,4 @@ googleAnalytics = "G-76NXT956MJ"
 
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/DataWave_VESRI"
+url = "https://twitter.com/PokhrelYadu"
