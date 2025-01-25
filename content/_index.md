@@ -14,6 +14,6 @@ Your dream of studying in the USA starts here. Let us help you make it a reality
 
 
 
-Campus of Michigan State Universtity
+Campus of Michigan State Universtity:
 
 ![Michigan State University](/images/mainpage_msu.jpg)
