@@ -56,11 +56,6 @@ featured_image = '/images/background.jpg'
       weight = 6
     
 
-  #[[menu.footer]]
-  #  name = "Contact"
-  #  url = "/contact/"
-  #    weight = 2
-
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/PokhrelYadu"
