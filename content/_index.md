@@ -1,5 +1,5 @@
 ---
-title: "Japan USA Study"
+title: "Irrigation in teh Earth System"
 featured_image: '/images/button_image.jpg'
 description: "An Irrigation Research Community"
 ---
