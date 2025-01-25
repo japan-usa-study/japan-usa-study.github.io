@@ -10,6 +10,7 @@ googleAnalytics = "G-76NXT956MJ"
   featured_image = '/images/background.jpg'
   favicon = "/favicon-32x32.png"
   #site_logo = "/images/logo/banner_final_white.png"
+  
 
  [params.jobs]
     summary_truncate = 12  # How many characters to include in the summary of the team bios (large layout) before truncating
@@ -59,3 +60,5 @@ featured_image = '/images/background.jpg'
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/PokhrelYadu"
+name = "github"
+url = "https://github.com/japan-usa-study"
