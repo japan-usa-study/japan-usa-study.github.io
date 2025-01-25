@@ -60,5 +60,3 @@ featured_image = '/images/background.jpg'
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/PokhrelYadu"
-name = "github"
-url = "https://github.com/japan-usa-study"
