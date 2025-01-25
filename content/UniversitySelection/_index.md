@@ -5,7 +5,7 @@ featured: true
 draft: false
 weight: 1
 location: "Globe"
-featured_image: "/images/university_selection.jpg"
+featured_image: "/images/background.jpg"
 ---
 
 {{< rawhtml >}}
