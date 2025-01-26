@@ -2,11 +2,11 @@ baseURL = "http://datawaveproject.github.io/"
 languageCode = "en-us"
 # title = "Japan USA study"
 theme = "ananke"
-googleAnalytics = "G-76NXT956MJ"
+googleAnalytics = "G-V819GP044B"
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
-  googleAnalytics = 'G-76NXT956MJ'
+  googleAnalytics = 'G-V819GP044B'
   featured_image = '/images/background.jpg'
   favicon = "/favicon-32x32.png"
   #site_logo = "/images/logo/banner_final_white.png"
