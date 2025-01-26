@@ -1,6 +1,7 @@
 ---
 title: "University Selection"
 date: 2025-01-25
+Developer: Amar Deep Tiwari
 featured: true
 draft: false
 weight: 1
