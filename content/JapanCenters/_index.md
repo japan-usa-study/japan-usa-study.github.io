@@ -1,48 +1,40 @@
 ---
-title: "Student Life in the USA"
+title: "Japan-related programs and centers"
 date: 2025-01-25
 Developer: Amar Deep Tiwari
 featured: true
 draft: false
-weight: 3
+weight: 6
 location: "USA"
 featured_image: "/images/student_life_usa.jpg"
 ---
 
-Experiencing student life in the United States is an exciting journey filled with diverse opportunities and cultural experiences. Here's what you can expect:
+Exploring Japan-related programs and centers in the United States can be a transformative academic and cultural experience for students passionate about Japanese language, history, society, politics, and arts. Several top-tier universities across the U.S. host renowned Japan studies programs that offer interdisciplinary research, events, and study opportunities.
 
-### Academic Environment
-U.S. universities offer a dynamic academic setting that encourages critical thinking and active participation. You'll engage in discussions, group projects, and have access to state-of-the-art facilities.
+### Center for Japanese Studies – UC Berkeley
+The **Center for Japanese Studies (CJS)** at UC Berkeley is one of the oldest and most prestigious centers in the U.S. dedicated to the study of Japan. CJS offers a vibrant academic environment with public lectures, film screenings, workshops, and fellowships that foster a deeper understanding of Japanese society and culture.  
+[Visit CJS Website →](https://ieas.berkeley.edu/cjs)
 
-![Group of international students in the USA](/images/student_life_3.jpg)
+### Center for Japanese Studies – University of Michigan
+The **Center for Japanese Studies** at the University of Michigan is one of the largest Japan-focused centers in the U.S., offering a wide range of courses and public programs. The center supports faculty and student research, organizes symposia, and engages with the community through cultural events and outreach activities.  
+[Visit U-M CJS Website →](https://ii.umich.edu/cjs)
 
-### Campus Life
-Campus life is vibrant, with numerous clubs, organizations, and events. Whether you're interested in sports, arts, or academic societies, there's something for everyone.
+### Edwin O. Reischauer Institute of Japanese Studies – Harvard University
+Harvard’s **Reischauer Institute** promotes advanced research and education on Japan through fellowships, speaker series, and collaborative projects. It serves as a hub for scholars and students engaged in Japanese studies.  
+[Visit Reischauer Institute →](https://rijs.fas.harvard.edu/)
 
-![Infographic on student life in America](/images/student_life_2.jpg)
+### Japan Program – Stanford University
+Stanford's **Japan Program**, part of the Walter H. Shorenstein Asia-Pacific Research Center, conducts interdisciplinary research and policy-relevant analysis on Japan’s role in global affairs. The program also offers public events and supports student initiatives related to Japan.  
+[Visit Stanford Japan Program →](https://aparc.fsi.stanford.edu/japan)
 
+![Group of students visiting a Japanese cultural event](/images/student_life_3.jpg)
 
-### Housing
-Students can choose between on-campus dormitories or off-campus housing. Living on campus provides a sense of community and easy access to university resources.
-
-### Cultural Diversity
-The U.S. is a melting pot of cultures. You'll meet people from various backgrounds, enhancing your global perspective and enriching your personal growth.
-
-### Support Services
-Universities offer support services, including academic advising, mental health counseling, and career services, to help you succeed both academically and personally.
-
-
-![International students enjoying campus life in the USA](/images/student_life_1.jpg)
-
-### Work Opportunities
-International students may have the opportunity to work on campus or participate in internships, providing practical experience in their field of study.
+### Why Consider These Programs?
+- Access to world-class faculty and archival resources
+- Opportunities for fieldwork and study abroad in Japan
+- Exposure to a vibrant intellectual community
+- Specialized career support for Japan-related professions
 
 ---
 
-**Embracing student life in the USA will broaden your horizons and create lasting memories. Dive into the experience and make the most of your time abroad!**
-
-
-
-
-
-
+**Whether you're aiming for a career in academia, diplomacy, business, or cultural exchange, these programs can provide the foundation and network to support your journey in Japanese studies.**
