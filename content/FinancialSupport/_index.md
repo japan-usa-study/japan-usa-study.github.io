@@ -64,7 +64,7 @@ PhD programs often come with robust funding packages:
 - **Loan Options**: While not ideal, private loans tailored for international students are available through lenders like MPOWER Financing or Prodigy Finance.
 
 
-{{< figure src="/images/financial_aid_tips.jpg" caption="<small><em>Mos- Your guide to the types of financial aid</em></small>" >}}
+{{< figure src="/images/financial_aid_tips.jpg" caption="<small><em>Image source: Mos- Your guide to the types of financial aid</em></small>" >}}
 
 ---
 
