@@ -27,7 +27,7 @@ Harvard’s **Reischauer Institute** promotes advanced research and education on
 Stanford's **Japan Program**, part of the Walter H. Shorenstein Asia-Pacific Research Center, conducts interdisciplinary research and policy-relevant analysis on Japan’s role in global affairs. The program also offers public events and supports student initiatives related to Japan.  
 [Visit Stanford Japan Program →](https://aparc.fsi.stanford.edu/japan)
 
-![Group of students visiting a Japanese cultural event](/images/student_life_3.jpg)
+
 {{< figure src="/images/student_life_3.jpg" caption="<small><em>Image source: Baldwin School</em></small>" >}}
 
 
