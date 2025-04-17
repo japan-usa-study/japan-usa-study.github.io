@@ -14,7 +14,7 @@ Pursuing higher education in the United States can be expensive, but there are n
 ### Scholarships for International Students
 Scholarships are a great way to reduce the financial burden of studying abroad. Below are some popular scholarships for international students:
 
-{{< figure src="/images/scholarships_usa.jpg" caption="<small><em>Image source: OYA Opportunities</em></small>" >}}
+{{< figure src="/images/scholarships_usa.jpg" caption="<small><small><em>Image source: OYA Opportunities</em></small></small>" >}}
 
 
 #### General Scholarships
@@ -53,7 +53,7 @@ PhD programs often come with robust funding packages:
 - **Institute of International Education (IIE) Scholarships**: Offers various grants and fellowships for international PhD students.  
   [Learn more](https://www.iie.org/)
 
-{{< figure src="/images/research_assistant.jpg" caption="<small><em>Kei Hashimoto, a researcher on dementia at the University of California, San Francisco (UCSF) (Provided by Kei Hashimoto)</em></small>" >}}
+{{< figure src="/images/research_assistant.jpg" caption="<small><small><em>Kei Hashimoto, a researcher on dementia at the University of California, San Francisco (UCSF) (Provided by Kei Hashimoto)</em></small></small>" >}}
 
 
 
@@ -64,7 +64,7 @@ PhD programs often come with robust funding packages:
 - **Loan Options**: While not ideal, private loans tailored for international students are available through lenders like MPOWER Financing or Prodigy Finance.
 
 
-{{< figure src="/images/financial_aid_tips.jpg" caption="<small><em>Image source: Mos- Your guide to the types of financial aid</em></small>" >}}
+{{< figure src="/images/financial_aid_tips.jpg" caption="<small><small><em>Image source: Mos- Your guide to the types of financial aid</em></small></small>" >}}
 
 ---
 
