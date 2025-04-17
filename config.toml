@@ -52,9 +52,14 @@ featured_image = '/images/background.jpg'
       weight = 5
 
   [[menu.main]]
+      name = "Japan Related Programs and Centers"
+      url = "/StudentLifeInTheUSA/"
+      weight = 6
+
+  [[menu.main]]
       name = "Other resources"
       url = "/resources/"
-      weight = 6
+      weight = 7
     
 
 [[params.ananke_socials]]
