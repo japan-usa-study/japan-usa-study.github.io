@@ -28,7 +28,8 @@ Stanford's **Japan Program**, part of the Walter H. Shorenstein Asia-Pacific Res
 [Visit Stanford Japan Program →](https://aparc.fsi.stanford.edu/japan)
 
 ![Group of students visiting a Japanese cultural event](/images/student_life_3.jpg)
-Image source: Baldwin School
+{{< figure src="/images/student_life_3.jpg" caption="<small><em>Image source: Baldwin School</em></small>" >}}
+
 
 ### Why Consider These Programs?
 - Access to world-class faculty and archival resources
