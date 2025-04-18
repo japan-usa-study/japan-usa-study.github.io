@@ -30,6 +30,12 @@ Scholarships are a great way to reduce the financial burden of studying abroad. 
   Provides funding for women pursuing graduate or postgraduate studies in the U.S.  
   [Learn more](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/)
 
+#### Scholarships (U.S. Embassies and Consulates in Tokyo)
+- **Scholarship Information**  
+  Various scholarships for students studying abroad.  
+  [Learn more](https://jp.usembassy.gov/ja/education-ja/scholarships-ja/)
+  
+  
 #### Scholarships for Japanese Students
 - **JASSO Scholarships**  
   Japan Student Services Organization offers various scholarships for students studying abroad.  
