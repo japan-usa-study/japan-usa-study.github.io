@@ -32,7 +32,7 @@ featured_image = '/images/background.jpg'
       weight = 1
 
   [[menu.main]]
-      name = "University Selection"
+      name = "University selection"
      url = "/UniversitySelection/"
       weight = 2
 
