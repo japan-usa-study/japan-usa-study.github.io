@@ -1,5 +1,5 @@
 ---
-title: "Japan-related programs and centers"
+title: "Japan Related Programs and Centers"
 date: 2025-04-18
 Developer: Amar Deep Tiwari
 featured: true
