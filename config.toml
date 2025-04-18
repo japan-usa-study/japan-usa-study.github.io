@@ -37,17 +37,17 @@ featured_image = '/images/background.jpg'
       weight = 2
 
   [[menu.main]]
-      name = "Application process"
+      name = "Application Process"
      url = "/ApplicationProcess/"
       weight = 3
 
   [[menu.main]]
-      name = "Financial support"
+      name = "Financial Support"
      url = "/FinancialSupport/"
       weight = 4
 
   [[menu.main]]
-      name = "Student life in the USA"
+      name = "Student Life in the USA"
       url = "/StudentLifeInTheUSA/"
       weight = 5
 
@@ -57,7 +57,7 @@ featured_image = '/images/background.jpg'
       weight = 6
 
   [[menu.main]]
-      name = "Other resources"
+      name = "Other Resources"
       url = "/resources/"
       weight = 7
     
