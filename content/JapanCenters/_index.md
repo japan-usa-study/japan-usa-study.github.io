@@ -20,8 +20,8 @@ The **Center for Japanese Studies** at the University of Michigan is one of the 
 [Visit U-M CJS Website →](https://ii.umich.edu/cjs)
 
 ### Japan Council – Michigan State University
-**Michigan State University’s Japan Council**, coordinated through the Asian Studies Center, facilitates research, teaching, and outreach related to Japan across departments. It promotes interdisciplinary collaboration, hosts visiting scholars, and supports Japanese language and cultural programs.  
-[Visit MSU Japan Council →](https://asia.isp.msu.edu/programs/japan-council/)
+**Michigan State University’s Japan Center**, coordinated through the Asian Studies Center, facilitates research, teaching, and outreach related to Japan across departments. It promotes interdisciplinary collaboration, hosts visiting scholars, and supports Japanese language and cultural programs.  
+[Visit MSU Japan Center for Michigan Universities →](https://jcmu.isp.msu.edu/)
 
 ### Japan Studies Program – University of Washington
 The **Japan Studies Program** at the University of Washington is a hub for research, teaching, and public engagement focused on Japan. It offers undergraduate and graduate degrees, hosts seminars and cultural events, and supports faculty across multiple disciplines.  
