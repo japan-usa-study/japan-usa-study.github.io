@@ -29,48 +29,40 @@ featured_image = '/images/background.jpg'
   [[menu.main]]
     name = "Home"
     url = "/"
-    weight = 1
+      weight = 1
 
   [[menu.main]]
-    name = "About Universities"
-    identifier = "about-universities"
-    url = "#"
-    weight = 2
+      name = "University Selection"
+     url = "/UniversitySelection/"
+      weight = 2
 
   [[menu.main]]
-    name = "University Selection"
-    url = "/UniversitySelection/"
-    parent = "about-universities"
-    weight = 1
+      name = "Application Process"
+     url = "/ApplicationProcess/"
+      weight = 3
 
   [[menu.main]]
-    name = "Application Process"
-    url = "/ApplicationProcess/"
-    parent = "about-universities"
-    weight = 2
+      name = "Financial Support"
+     url = "/FinancialSupport/"
+      weight = 4
 
   [[menu.main]]
-    name = "Financial Support"
-    url = "/FinancialSupport/"
-    parent = "about-universities"
-    weight = 3
+      name = "Student Life in the USA"
+      url = "/StudentLifeInTheUSA/"
+      weight = 5
 
   [[menu.main]]
-    name = "Student Life in the USA"
-    url = "/StudentLifeInTheUSA/"
-    weight = 5
+      name = "Japan Related Programs and Centers"
+      url = "/JapanCenters/"
+      weight = 6
 
   [[menu.main]]
-    name = "Japan Related Programs and Centers"
-    url = "/JapanCenters/"
-    weight = 6
-
-  [[menu.main]]
-    name = "Other Resources"
-    url = "/resources/"
-    weight = 7
+      name = "Other Resources"
+      url = "/resources/"
+      weight = 7
     
 
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/PokhrelYadu"
+
