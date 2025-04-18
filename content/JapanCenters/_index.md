@@ -19,22 +19,24 @@ The **Center for Japanese Studies (CJS)** at UC Berkeley is one of the oldest an
 The **Center for Japanese Studies** at the University of Michigan is one of the largest Japan-focused centers in the U.S., offering a wide range of courses and public programs. The center supports faculty and student research, organizes symposia, and engages with the community through cultural events and outreach activities.  
 [Visit U-M CJS Website →](https://ii.umich.edu/cjs)
 
-### Edwin O. Reischauer Institute of Japanese Studies – Harvard University
-Harvard’s **Reischauer Institute** promotes advanced research and education on Japan through fellowships, speaker series, and collaborative projects. It serves as a hub for scholars and students engaged in Japanese studies.  
-[Visit Reischauer Institute →](https://rijs.fas.harvard.edu/)
+### Japan Council – Michigan State University
+**Michigan State University’s Japan Council**, coordinated through the Asian Studies Center, facilitates research, teaching, and outreach related to Japan across departments. It promotes interdisciplinary collaboration, hosts visiting scholars, and supports Japanese language and cultural programs.  
+[Visit MSU Japan Council →](https://asia.isp.msu.edu/programs/japan-council/)
 
-### Japan Program – Stanford University
-Stanford's **Japan Program**, part of the Walter H. Shorenstein Asia-Pacific Research Center, conducts interdisciplinary research and policy-relevant analysis on Japan’s role in global affairs. The program also offers public events and supports student initiatives related to Japan.  
-[Visit Stanford Japan Program →](https://aparc.fsi.stanford.edu/japan)
+### Japan Studies Program – University of Washington
+The **Japan Studies Program** at the University of Washington is a hub for research, teaching, and public engagement focused on Japan. It offers undergraduate and graduate degrees, hosts seminars and cultural events, and supports faculty across multiple disciplines.  
+[Visit UW Japan Studies →](https://jsis.washington.edu/japan/)
 
+### Japanese Studies Program – Florida State University
+At **Florida State University**, the Japanese Studies Program offers a growing curriculum in Japanese language, literature, and culture. It includes study abroad opportunities in Japan and collaborates with international programs to enhance student experience.  
+[Visit FSU Japanese Studies →](https://modlang.fsu.edu/japanese)
 
-{{< figure src="/images/student_life_3.jpg" caption="<small><em>Image source: Baldwin School</em></small>" >}}
-
+{{< figure src="/images/student_life_3.jpg" caption="<span style='font-size: 0.7em;'><em>Image source: Baldwin School</em></span>" >}}
 
 ### Why Consider These Programs?
-- Access to world-class faculty and archival resources
-- Opportunities for fieldwork and study abroad in Japan
-- Exposure to a vibrant intellectual community
+- Access to world-class faculty and archival resources  
+- Opportunities for fieldwork and study abroad in Japan  
+- Exposure to a vibrant intellectual community  
 - Specialized career support for Japan-related professions
 
 ---
