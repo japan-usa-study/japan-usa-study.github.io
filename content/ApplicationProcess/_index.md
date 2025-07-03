@@ -63,7 +63,7 @@ featured_image: "/images/application_process.jpg"
   <li>Attend orientation programs to settle into your new academic life.</li>
 </ul>
 
-<p>If you have questions or need additional support, don’t hesitate to [contact us](https://japan-usa-study.github.io/resources/)! We’re here to help you navigate the application process and achieve your dream of studying in the U.S.</p>
+<p>If you have questions or need additional support, don’t hesitate to [contact us](https://japan-usa-study.github.io/resources/) ! We’re here to help you navigate the application process and achieve your dream of studying in the U.S.</p>
 </div>
 {{< /rawhtml >}}
 <!--more-->
