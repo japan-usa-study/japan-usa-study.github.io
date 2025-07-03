@@ -31,7 +31,7 @@ The **Japan Studies Program** at the University of Washington is a hub for resea
 At **Florida State University**, the Japanese Studies Program offers a growing curriculum in Japanese language, literature, and culture. It includes study abroad opportunities in Japan and collaborates with international programs to enhance student experience.  
 [Visit FSU Japanese Studies →](https://modlang.fsu.edu/japanese)
 
-{{< figure src="/images/student_life_3.jpg" caption="<span style='font-size: 0.7em;'><em>Image source: Baldwin School</em></span>" >}}
+{{< figure src="https://github.com/japan-usa-study/japan-usa-study.github.io/blob/main/static/images/JapRelStudies.jfif" caption="<span style='font-size: 0.7em;'><em>Image source: University of Wisonsin Whitewater</em></span>" >}}
 
 ### Why Consider These Programs?
 - Access to world-class faculty and archival resources  
