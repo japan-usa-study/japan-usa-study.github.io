@@ -33,6 +33,6 @@ Check out testimonials and experiences from Japanese students studying at univer
 - [Student Stories](#)
 - [How I Chose My University](#)
 
-Need more help? Contact us for personalized advice on university selection! Let’s make your dream of studying in the USA a reality.
+Need more help? [Contact us](https://japan-usa-study.github.io/resources/) for personalized advice on university selection! Let’s make your dream of studying in the USA a reality.
 
 <!--more-->
