@@ -14,7 +14,7 @@ Pursuing higher education in the United States can be expensive, but there are n
 ### Scholarships for International Students
 Scholarships are a great way to reduce the financial burden of studying abroad. Below are some popular scholarships for international students:
 
-{{< figure src="/images/FinSupport" caption="<small><small><em>Image source: Google</em></small></small>" >}}
+{{< figure src="/images/FinSupport" caption="<small><small><em>Image source: Smarter Select</em></small></small>" >}}
 
 
 #### General Scholarships
