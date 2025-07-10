@@ -55,7 +55,7 @@ Master’s students can access scholarships, assistantships, and grants to suppo
 PhD programs often come with robust funding packages:
 - **University Fellowships**: Many U.S. universities provide full tuition waivers and stipends for PhD students.
 - **National Science Foundation (NSF) Graduate Research Fellowship**: A highly competitive fellowship for STEM PhD students.  
-  [Learn more](https://www.nsfgrfp.org/)
+  [Learn more](https://www.nsf.gov/science-matters/nsf-101-graduate-research-fellowship-program)
 - **Institute of International Education (IIE) Scholarships**: Offers various grants and fellowships for international PhD students.  
   [Learn more](https://www.iie.org/)
 
