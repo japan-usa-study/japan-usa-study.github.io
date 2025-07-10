@@ -29,13 +29,9 @@ Here are some popular options for Japanese students:
 - [Common App](https://www.commonapp.org): Simplify your application process.
 
 ## Hear from Japanese Students
-Check out testimonials and experiences from Japanese students studying at universities across the U.S.:
-<iframe width="400" height="225" 
-        src="https://www.youtube.com/embed/WqVAZXrqiAI" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
+Check out testimonials and experiences from Japanese students studying at universities across the U.S.:.
+Watch the video below:.
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)
 - [How I Chose My University](#)
 
 Need more help? [Contact us](https://japan-usa-study.github.io/resources/) for personalized advice on university selection! Let’s make your dream of studying in the USA a reality.
