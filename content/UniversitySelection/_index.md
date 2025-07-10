@@ -31,7 +31,7 @@ Here are some popular options for Japanese students:
 ## Hear from Japanese Students
 Check out testimonials and experiences from Japanese students studying at universities across the U.S.:
 - [Student Stories](#)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WqVAZXrqiAI?si=H7kMv4VC-6zV9WK9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/WqVAZXrqiAI/maxresdefault.jpg)](https://youtu.be/WqVAZXrqiAI)
 - [How I Chose My University](#)
 
 Need more help? [Contact us](https://japan-usa-study.github.io/resources/) for personalized advice on university selection! Let’s make your dream of studying in the USA a reality.
