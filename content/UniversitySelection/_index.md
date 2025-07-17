@@ -15,6 +15,7 @@ Choosing the right university is one of the most important steps in your study a
 - **Research Your Field of Study:** Does the university have strong programs in your area of interest?
 - **Location Matters:** Big city or small town? East Coast or West Coast? Climate and culture vary greatly across the U.S.
 - **Tuition and Scholarships:** Compare costs and explore financial aid options.
+- **Social Life:** Are there any student organizations or campus activities that are of interest to you?
 ## Top U.S. Universities for International Students
 Here are some popular options for Japanese students:
 - [Harvard University](https://www.harvard.edu): Renowned for its academic excellence.
