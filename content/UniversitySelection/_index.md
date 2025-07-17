@@ -34,7 +34,7 @@ Watch the [video](https://youtu.be/WqVAZXrqiAI) below:
 <div style="display: inline-flex; align-items: center;">
   <!-- Video Thumbnail -->
   <a href="https://www.youtube.com/watch?v=WqVAZXrqiAI" target="_blank" style="display: inline-block;">
-    <img src="https://img.youtube.com/vi/WqVAZXrqiAI/0.jpg" style="width: 100%; display: block;">
+    <img src="https://img.youtube.com/vi/WqVAZXrqiAI/maxresdefault.jpg" style="width: 100%; display: block;">
   </a>
 
   <!-- Play Button -->
