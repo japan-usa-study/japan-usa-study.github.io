@@ -32,13 +32,7 @@ Check out testimonials and experiences from Japanese students studying at univer
 
 Watch the [video](https://youtu.be/WqVAZXrqiAI) below:
 [![Watch the video](https://img.youtube.com/vi/WqVAZXrqiAI/maxresdefault.jpg)](https://youtu.be/WqVAZXrqiAI)
-<div style="display: inline-flex; align-items: center;">
-  <!-- Play Button -->
-  <a href="https://www.youtube.com/watch?v=WqVAZXrqiAI" target="_blank" style="display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_play_button_icon_%282013%E2%80%932017%29.svg" 
-         style="width: 50px; height: auto; margin-left: 5px;">
-  </a>
-</div>
+{{< figure src="/images/YouTube_play_button_icon_(2013–2017).jpg" caption="<span style='font-size: 0.7em;'><em>Image source: </em></span>" >}}
 
 Need more help? [Contact us](https://japan-usa-study.github.io/resources/) for personalized advice on university selection! Let’s make your dream of studying in the USA a reality.
 
