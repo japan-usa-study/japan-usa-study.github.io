@@ -15,19 +15,16 @@ Choosing the right university is one of the most important steps in your study a
 - **Research Your Field of Study:** Does the university have strong programs in your area of interest?
 - **Location Matters:** Big city or small town? East Coast or West Coast? Climate and culture vary greatly across the U.S.
 - **Tuition and Scholarships:** Compare costs and explore financial aid options.
-
 ## Top U.S. Universities for International Students
 Here are some popular options for Japanese students:
 - [Harvard University](https://www.harvard.edu): Renowned for its academic excellence.
 - [University of California, Los Angeles (UCLA)](https://www.ucla.edu): A vibrant campus with a diverse student body.
 - [Michigan State University](https://msu.edu): Affordable tuition and a strong international community.
 - [University of Washington](https://www.washington.edu): Top programs in STEM and more.
-
 ## Resources for University Selection
 - [U.S. News Best Colleges Rankings](https://www.usnews.com/best-colleges): Compare universities by rankings, tuition, and programs.
 - [EducationUSA](https://educationusa.state.gov): The official source for U.S. higher education guidance.
 - [Common App](https://www.commonapp.org): Simplify your application process.
-
 ## Hear from Japanese Students
 Check out testimonials and experiences from Japanese students studying at universities across the U.S.
 
