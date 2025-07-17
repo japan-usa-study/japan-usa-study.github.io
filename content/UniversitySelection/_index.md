@@ -26,6 +26,7 @@ Here are some popular options for Japanese students:
 - [U.S. News Best Colleges Rankings](https://www.usnews.com/best-colleges): Compare universities by rankings, tuition, and programs.
 - [EducationUSA](https://educationusa.state.gov): The official source for U.S. higher education guidance.
 - [Common App](https://www.commonapp.org): Simplify your application process.
+- [International Student] (https://www.internationalstudent.com/school-search/usa/): Filter for schools by major, location, and type of degree
 ## Hear from Japanese Students
 Check out testimonials and experiences from Japanese students studying at universities across the U.S.
 
