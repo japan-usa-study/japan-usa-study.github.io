@@ -26,8 +26,9 @@ Here are some popular options for Japanese students:
 - [EducationUSA](https://educationusa.state.gov): The official source for U.S. higher education guidance.
 - [Common App](https://www.commonapp.org): Simplify your application process.
 ## Hear from Japanese Students
-Check out testimonials and experiences from Japanese students studying at universities across the U.S.:.
-Watch the video below:.
+Check out testimonials and experiences from Japanese students studying at universities across the U.S.
+
+Watch the video below:
 [![Watch the video](https://img.youtube.com/vi/WqVAZXrqiAI/maxresdefault.jpg)](https://youtu.be/WqVAZXrqiAI)
 - [How I Chose My University](#)
 
