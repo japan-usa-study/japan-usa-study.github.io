@@ -30,6 +30,7 @@ Here are some popular options for Japanese students:
 ## Hear from Japanese Students
 Check out testimonials and experiences from Japanese students studying at universities across the U.S.
 
+Watch the [video](https://youtu.be/WqVAZXrqiAI) below:
 <div style="display: inline-flex; align-items: center;">
   <!-- Video Thumbnail -->
   <a href="https://www.youtube.com/watch?v=WqVAZXrqiAI" target="_blank" style="display: inline-block;">
@@ -42,10 +43,6 @@ Check out testimonials and experiences from Japanese students studying at univer
          style="width: 50px; height: auto; margin-left: 5px;">
   </a>
 </div>
-
-Watch the [video](https://youtu.be/WqVAZXrqiAI) below:
-[![Watch the video](https://img.youtube.com/vi/WqVAZXrqiAI/maxresdefault.jpg)](https://youtu.be/WqVAZXrqiAI)
-- [How I Chose My University](#)
 
 Need more help? [Contact us](https://japan-usa-study.github.io/resources/) for personalized advice on university selection! Let’s make your dream of studying in the USA a reality.
 
