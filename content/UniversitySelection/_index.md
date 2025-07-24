@@ -35,7 +35,7 @@ Watch the [video](https://youtu.be/WqVAZXrqiAI) below:
 <img src="https://www.freepnglogos.com/uploads/youtube-play-button-png/youtube-play-button-file-youtube-play-buttom-icon-svg-wikimedia-commons-8.png" alt="Youtube Play Button" width="100" height="100">
 
 
-[Japanese students adapt to life in the United States](https://pulse.findlay.edu/2023/student-life/japanese-students-adapt-to-life-in-the-united-states/): Exchange students talk about life in the U.S. and the many differences from Japan
+- [Japanese students adapt to life in the United States](https://pulse.findlay.edu/2023/student-life/japanese-students-adapt-to-life-in-the-united-states/): Exchange students talk about life in the U.S. and the many differences from Japan
 
 
 
