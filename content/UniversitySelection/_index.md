@@ -30,7 +30,7 @@ Here are some popular options for Japanese students:
 ## Hear from Japanese Students
 Check out testimonials and experiences from Japanese students studying at universities across the U.S.
 
-Watch the [video](https://youtu.be/WqVAZXrqiAI) below:
+- Watch the [video](https://youtu.be/WqVAZXrqiAI) below:
 [![Watch the video](https://img.youtube.com/vi/WqVAZXrqiAI/maxresdefault.jpg)](https://youtu.be/WqVAZXrqiAI)
 <img src="https://www.freepnglogos.com/uploads/youtube-play-button-png/youtube-play-button-file-youtube-play-buttom-icon-svg-wikimedia-commons-8.png" alt="Youtube Play Button" width="100" height="100">
 
