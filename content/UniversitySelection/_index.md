@@ -30,14 +30,15 @@ Here are some popular options for Japanese students:
 ## Hear from Japanese Students
 Check out testimonials and experiences from Japanese students studying at universities across the U.S.
 
-<p style="text-align: center;">
-  <a href="https://youtu.be/WqVAZXrqiAI" target="_blank" style="position: relative; display: inline-block;">
-    <img src="https://img.youtube.com/vi/WqVAZXrqiAI/maxresdefault.jpg" alt="Watch the video" style="width:100%; max-width:640px; border: 1px solid #ccc;">
+<div style="position: relative; width: 100%; max-width: 640px; margin: 1em auto;">
+  <a href="https://youtu.be/WqVAZXrqiAI" target="_blank">
+    <img src="https://img.youtube.com/vi/WqVAZXrqiAI/maxresdefault.jpg" style="width: 100%; display: block;" alt="Japanese Student Video">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/YouTube_play_button_icon_%282013-2017%29.svg"
-         alt="Play"
-         style="position: absolute; top: 50%; left: 50%; width: 60px; height: 60px; transform: translate(-50%, -50%); pointer-events: none;">
+         style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 80px; height: 80px; pointer-events: none;"
+         alt="Play Button">
   </a>
-</p>
+</div>
+
 
 
 
