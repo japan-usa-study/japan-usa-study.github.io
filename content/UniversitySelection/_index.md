@@ -31,8 +31,15 @@ Here are some popular options for Japanese students:
 Check out testimonials and experiences from Japanese students studying at universities across the U.S.
 
 - Watch the [video](https://youtu.be/WqVAZXrqiAI) below:
-[![Watch the video](https://img.youtube.com/vi/WqVAZXrqiAI/maxresdefault.jpg)](https://youtu.be/WqVAZXrqiAI)
-<img src="https://www.freepnglogos.com/uploads/youtube-play-button-png/youtube-play-button-file-youtube-play-buttom-icon-svg-wikimedia-commons-8.png" alt="Youtube Play Button" width="100" height="100">
+<div style="position: relative; max-width: 640px; margin: 1em auto;">
+  <a href="https://youtu.be/WqVAZXrqiAI" target="_blank">
+    <img src="https://img.youtube.com/vi/WqVAZXrqiAI/maxresdefault.jpg" alt="Watch the video" style="width: 100%; display: block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/YouTube_play_button_icon_%282013-2017%29.svg"
+         alt="Play Button"
+         style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 80px; height: 80px; pointer-events: none;">
+  </a>
+</div>
+
 
 
 - [Japanese students adapt to life in the United States](https://pulse.findlay.edu/2023/student-life/japanese-students-adapt-to-life-in-the-united-states/): Exchange students talk about life in the U.S. and the many differences from Japan
