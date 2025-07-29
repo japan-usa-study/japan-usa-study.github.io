@@ -30,6 +30,7 @@ Here are some popular options for Japanese students:
 ## Hear from Japanese Students
 Check out testimonials and experiences from Japanese students studying at universities across the U.S.
 
+{{< rawhtml >}}
 <div style="position: relative; width: 100%; max-width: 640px; margin: 1em auto;">
   <a href="https://youtu.be/WqVAZXrqiAI" target="_blank">
     <img src="https://img.youtube.com/vi/WqVAZXrqiAI/maxresdefault.jpg" style="width: 100%; display: block;" alt="Japanese Student Video">
@@ -38,6 +39,8 @@ Check out testimonials and experiences from Japanese students studying at univer
          alt="Play Button">
   </a>
 </div>
+{{< /rawhtml >}}
+
 
 
 
