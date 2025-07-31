@@ -31,6 +31,7 @@ Here are some popular options for Japanese students:
 Check out testimonials and experiences from Japanese students studying at universities across the U.S.
 
 - Watch the [video](https://youtu.be/WqVAZXrqiAI) below:
+
 [![Watch the video!](https://img.youtube.com/vi/WqVAZXrqiAI/0.jpg)](https://www.youtube.com/watch?v=WqVAZXrqiAI)   
 <div style="position: relative; max-width: 640px; margin: 1em auto;">
   <a href="https://youtu.be/WqVAZXrqiAI" target="_blank">
