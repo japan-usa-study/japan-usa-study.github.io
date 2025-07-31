@@ -32,7 +32,7 @@ Check out testimonials and experiences from Japanese students studying at univer
 
 - Watch the [video](https://youtu.be/WqVAZXrqiAI) below:
 
-[![Watch the video](https://img.youtube.com/vi/WqVAZXrqiAI.jpg)](https://youtu.be/WqVAZXrqiAI)
+[![Watch the video](https://img.youtube.com/vi/WqVAZXrqiAI/maxresdefault.jpg)](https://youtu.be/WqVAZXrqiAI)
 
 <a href="https://youtu.be/WqVAZXrqiAI" target="_blank">
   <img src="static/images/youtube.jpg" alt="Watch on YouTube" width="100">
