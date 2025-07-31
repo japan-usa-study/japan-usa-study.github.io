@@ -33,7 +33,10 @@ Check out testimonials and experiences from Japanese students studying at univer
 - Watch the [video](https://youtu.be/WqVAZXrqiAI) below:
 
 [![Watch the video](https://img.youtube.com/vi/WqVAZXrqiAI/hqdefault.jpg)](https://youtu.be/WqVAZXrqiAI)
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube)](https://youtu.be/WqVAZXrqiAI)
+
+<a href="https://youtu.be/WqVAZXrqiAI" target="_blank">
+  <img src="https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube" alt="Watch on YouTube" style="width: 150px;">
+</a>
 
 
 - [Japanese students adapt to life in the United States](https://pulse.findlay.edu/2023/student-life/japanese-students-adapt-to-life-in-the-united-states/): Exchange students talk about life in the U.S. and the many differences from Japan
