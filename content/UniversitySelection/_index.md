@@ -35,7 +35,7 @@ Check out testimonials and experiences from Japanese students studying at univer
 [![Watch the video](https://img.youtube.com/vi/WqVAZXrqiAI/hqdefault.jpg)](https://youtu.be/WqVAZXrqiAI)
 
 <a href="https://youtu.be/WqVAZXrqiAI" target="_blank">
-  <img src="https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube" alt="Watch on YouTube" width="150">
+  <img src="/static/images/YouTube_play_button_icon_2013-2017.jpg.jpg" alt="Watch on YouTube" width="120">
 </a>
 
 
