@@ -17,3 +17,8 @@ Your dream of studying in the USA starts here. Let us help you make it a reality
 Campus of Michigan State University:
 
 {{< figure src="/images/mainpage_msu.jpg" caption="<span style='font-size: 0.7em;'><em>Image source: Michigan State University</em></span>" >}}
+
+
+
+<!-- ClustrMaps visitor tracking script -->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=eAaoXWUDtIOxJA71KS1uOcyF6Vz8SVj1CRk3tmZcLds&cl=ffffff&w=a"></script>
