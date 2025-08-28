@@ -19,5 +19,8 @@ Campus of Michigan State University:
 {{< figure src="/images/mainpage_msu.jpg" caption="<span style='font-size: 0.7em;'><em>Image source: Michigan State University</em></span>" >}}
 
 
-<pre> <div align="center"> <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Pg2LMyTQJxrAXWxFxy8Ai1MQI2bpe_MuhVjCpIxYCI0&cl=ffffff&w=a"></script> </div> </pre>
+<div align="center">
+  <script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=Pg2LMyTQJxrAXWxFxy8Ai1MQI2bpe_MuhVjCpIxYCI0&cl=ffffff&w=a"></script>
+</div>
+
 
