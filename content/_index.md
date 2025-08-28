@@ -20,7 +20,7 @@ Campus of Michigan State University:
 
 
 <div align="center">
-  <script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=Pg2LMyTQJxrAXWxFxy8Ai1MQI2bpe_MuhVjCpIxYCI0&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=Pg2LMyTQJxrAXWxFxy8Ai1MQI2bpe_MuhVjCpIxYCI0&cl=ffffff&w=a"></script>
 </div>
 
 
