@@ -12,15 +12,10 @@ Discover insights from Japanese students who’ve walked the path, explore schol
 
 Your dream of studying in the USA starts here. Let us help you make it a reality!
 
-
-
 Campus of Michigan State University:
 
 {{< figure src="/images/mainpage_msu.jpg" caption="<span style='font-size: 0.7em;'><em>Image source: Michigan State University</em></span>" >}}
 
-
 <div align="center">
-<script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=Pg2LMyTQJxrAXWxFxy8Ai1MQI2bpe_MuhVjCpIxYCI0&cl=ffffff&w=a"></script>
+  <script type="text/javascript" id="clustrmaps" src="https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&tt=d&d=Pg2LMyTQJxrAXWxFxy8Ai1MQI2bpe_MuhVjCpIxYCI0&co=2d78ad&cmo=3acc3a&ct=ffffff&cmm=ff5353"></script>
 </div>
-
-
