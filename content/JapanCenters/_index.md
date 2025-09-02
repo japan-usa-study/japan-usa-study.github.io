@@ -9,7 +9,7 @@ location: "USA"
 featured_image: "/images/student_life_usa.jpg"
 ---
 
-Exploring Japan-related programs and centers in the United States can be a transformative academic and cultural experience for students passionate about Japanese language, history, society, politics, and arts. Several top-tier universities across the U.S. host renowned Japan studies programs that offer interdisciplinary research, events, and study opportunities.
+Exploring Japan-related programs and centers in the United States can be a transformative academic and cultural experience for students passionate about Japanese language, history, society, politics, and arts. Several top-tier universities across the U.S. host renowned Japan studies programs that offer interdisciplinary research, events, and study opportunities. Listed below are a few examples from different universities of what can be expected by partaking in these programs.
 
 ### Center for Japanese Studies – UC Berkeley
 The **Center for Japanese Studies (CJS)** at UC Berkeley is one of the oldest and most prestigious centers in the U.S. dedicated to the study of Japan. CJS offers a vibrant academic environment with public lectures, film screenings, workshops, and fellowships that foster a deeper understanding of Japanese society and culture.  
