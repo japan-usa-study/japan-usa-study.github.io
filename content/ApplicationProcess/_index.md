@@ -31,7 +31,7 @@ featured_image: "/images/application_process.jpg"
 
 <h3>Step 3: Submit Applications</h3>
 <ul>
-  <li>Create an account on the university’s application portal or use platforms like <a href="https://www.commonapp.org">Common App</a> for undergraduate applications.</li>
+  <li>Create an account on the university’s application portal
   <li>Pay attention to deadlines and ensure all documents are uploaded correctly.</li>
   <li>Pay the application fee (if applicable).</li>
 </ul>
