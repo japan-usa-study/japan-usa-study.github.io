@@ -39,7 +39,6 @@ featured_image: "/images/application_process.jpg"
 <h3>Step 4: Apply for Scholarships and Financial Aid</h3>
 <ul>
   <li>Research scholarships offered by universities and external organizations.</li>
-  <li>Complete the <a href="https://studentaid.gov">FAFSA</a> (if eligible) or other financial aid forms.</li>
   <li>Look for funding options through <a href="https://www.jasso.go.jp/en/index.html">JASSO</a> for Japanese students.</li>
 </ul>
 
