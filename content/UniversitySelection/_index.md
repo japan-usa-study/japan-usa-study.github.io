@@ -13,7 +13,7 @@ featured_image: "/images/background.jpg"
 Choosing the right university is one of the most important steps in your study abroad journey. We’re here to help you make an informed decision! Whether you’re looking for academic excellence, a vibrant campus life, or affordability, this guide will point you in the right direction.
 ## How to Choose a University
 - **Research Your Field of Study:** Does the university have strong programs in your area of interest?
-- **Explore Faculty:** Can you contact any faculty that can give you better insight into your field of study?
+- **Explore Faculty:** Can you contact any faculty that can give you better insight into your field of study? Establishing these early connections can be extremely advantageous to your academic career.
 - **Location Matters:** Big city or small town? East Coast or West Coast? Climate and culture vary greatly across the U.S.
 - **Tuition and Scholarships:** Compare costs and explore financial aid options.
 - **Social Life:** Are there any student organizations or campus activities that are of interest to you?
