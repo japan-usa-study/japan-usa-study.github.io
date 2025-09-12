@@ -67,7 +67,8 @@ PhD programs often come with robust funding packages:
 - **External Scholarships**: Organizations like [Scholarships.com](https://www.scholarships.com) and [Fastweb](https://www.fastweb.com) list numerous scholarships available to international students.
 - **Loan Options**: While not ideal, private loans tailored for international students are available through lenders like MPOWER Financing or Prodigy Finance.
 
-
+{{< figure src="/images/diane-serik-oFK7xgf4_50-unsplash.jpg" caption="<small><small><em>Photo by <a href="https://unsplash.com/@amelune?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Diane Serik</a> on <a href="https://unsplash.com/photos/woman-in-white-laboratory-gown-holding-black-microphone-oFK7xgf4_50?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      </em></small></small>" >}}
 
 ---
 
