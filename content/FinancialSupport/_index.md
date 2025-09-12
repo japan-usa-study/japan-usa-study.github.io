@@ -59,7 +59,8 @@ PhD programs often come with robust funding packages:
 - **Institute of International Education (IIE) Scholarships**: Offers various grants and fellowships for international PhD students.  
   [Learn more](https://www.iie.org/)
 
-{{< figure src="/images/research_assistant.jpg" caption="<small><small><em>Kei Hashimoto, a researcher on dementia at the University of California, San Francisco (UCSF) (Provided by Kei Hashimoto)</em></small></small>" >}}
+{{< figure src="/images/diane-serik-oFK7xgf4_50-unsplash.jpg" caption="<small><small><em>Photo by <a href="https://unsplash.com/@amelune?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Diane Serik</a> on <a href="https://unsplash.com/photos/woman-in-white-laboratory-gown-holding-black-microphone-oFK7xgf4_50?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      </em></small></small>" >}}
 
 
 
