@@ -14,7 +14,7 @@ Experiencing student life in the United States is an exciting journey filled wit
 ### Academic Environment
 U.S. universities offer a dynamic academic setting that encourages critical thinking and active participation. You'll engage in discussions, group projects, and have access to state-of-the-art facilities.
 
-{{< figure src="/images/intelligent-students-working-classroom.jpg" caption="Image by freepik" >}}
+{{< figure src="images/intelligent-students-working-classroom.jpg" caption="<small><em>Image source: freepik</em></small>" >}}
 
 ### Campus Life
 Campus life is vibrant, with numerous clubs, organizations, and events. Whether you're interested in sports, arts, or academic societies, there's something for everyone.
