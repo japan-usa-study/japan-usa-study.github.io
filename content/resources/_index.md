@@ -1,5 +1,5 @@
 ---
-title: "Contact us "
+title: "Contact Us "
 date: 2025-01-25
 Developer: Amar Deep Tiwari
 featured: true
