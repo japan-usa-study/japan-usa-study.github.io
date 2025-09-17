@@ -19,7 +19,7 @@ U.S. universities offer a dynamic academic setting that encourages critical thin
 ### Campus Life
 Campus life is vibrant, with numerous clubs, organizations, and events. Whether you're interested in sports, arts, or academic societies, there's something for everyone.
 
-{{< figure src="/images/ActualSpartanStadium" caption="<small><em>Image source: Dylan Martini</em></small>" >}}
+{{< figure src="/images/ActualSpartanStadium" caption="<small><em>Image source: Dylan Martini, Student at Michigan State University</em></small>" >}}
 
 
 ### Housing
