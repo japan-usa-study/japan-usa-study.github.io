@@ -31,11 +31,10 @@ The U.S. is a melting pot of cultures. You'll meet people from various backgroun
 ### Support Services
 Universities offer support services, including academic advising, mental health counseling, and career services, to help you succeed both academically and personally.
 
-
-{{< figure src="/images/student_life_1.jpg" caption="<small><em>Image source: Student.com</em></small>" >}}
-
 ### Work Opportunities
 International students may have the opportunity to work on campus or participate in internships, providing practical experience in their field of study.
+
+{{< figure src="/images/scott-blake-x-ghf9LjrVg-unsplash.jpg" caption="<small><em>Image source: Scott Blake on Unsplash</em></small>" >}}
 
 ---
 
