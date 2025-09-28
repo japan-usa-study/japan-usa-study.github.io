@@ -8,6 +8,7 @@ weight: 1
 location: "Globe"
 featured_image: "/images/gravity_waves_big.jpg"
 ---
+Please join and engage in our [discussion forums!](https://github.com/japan-usa-study/japan-usa-study.github.io/discussions)
 
 Write to us with your questions, comments, and interests. 
 
