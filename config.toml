@@ -62,7 +62,4 @@ featured_image = '/images/background.jpg'
       weight = 7
     
 
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/PokhrelYadu"
 
