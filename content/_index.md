@@ -1,5 +1,5 @@
 ---
-title: "Japan USA Study"
+title: "STEMBridge Japan-U.S."
 featured_image: '/images/button_image.jpg'
 description: "Study in the USA"
 ---
