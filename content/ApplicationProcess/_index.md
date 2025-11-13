@@ -24,7 +24,7 @@ featured_image: "/images/application_process.jpg"
 <ul>
   <p>Most universities will require the following materials for your applications, but please check each universities’ website for details.</p>
   <li><b>Transcripts:</b> Collect official transcripts from your previous institutions.</li>
-  <li><b>Test Scores:</b> Take standardized tests like TOEFL/IELTS, SAT, GRE, or GMAT, depending on program requirements.</li>
+  <li><b>Test Scores:</b> Take standardized tests like TOEFL/IELTS, GRE, or GMAT, depending on program requirements.</li>
   <li><b>Statement of Purpose (SOP):</b> Write a compelling essay about your academic goals and why you’re applying.</li>
   <li><b>Letters of Recommendation:</b> Request references from professors or professionals who know your work.</li>
   <li><b>Resume/CV:</b> Highlight your academic, extracurricular, and professional achievements.</li>
