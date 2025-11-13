@@ -22,6 +22,7 @@ featured_image: "/images/application_process.jpg"
 
 <h3>Step 2: Prepare Application Documents</h3>
 <ul>
+  <li>Most universities will require the following materials for your applications, but please check each universities’ website for details.</li>
   <li><b>Transcripts:</b> Collect official transcripts from your previous institutions.</li>
   <li><b>Test Scores:</b> Take standardized tests like TOEFL/IELTS, SAT, GRE, or GMAT, depending on program requirements.</li>
   <li><b>Statement of Purpose (SOP):</b> Write a compelling essay about your academic goals and why you’re applying.</li>
