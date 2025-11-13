@@ -39,7 +39,7 @@ Scholarships are a great way to reduce the financial burden of studying abroad. 
   Japan Student Services Organization offers various scholarships for students studying abroad.  
   [Learn more](https://www.jasso.go.jp/ryugaku/scholarship_a/index.html)
 
-  - **EducationUSA**  
+- **EducationUSA**  
   Offers more resources for applicable scholarships.  
   [Learn more](https://educationusa.jp/steps/scholarship.html)
 
