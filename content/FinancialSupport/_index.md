@@ -20,30 +20,32 @@ Scholarships are a great way to reduce the financial burden of studying abroad. 
 #### General Scholarships
 - **Fulbright Foreign Student Program**  
   A prestigious scholarship for graduate students, artists, and professionals from over 160 countries. It covers tuition, airfare, living expenses, and health insurance.  
-  [Learn more](https://foreign.fulbrightonline.org/)
+  [Learn more](https://www.fulbright.jp/scholarship/)
 
 - **Joint Japan/World Bank Graduate Scholarship Program**  
-  Offers financial support to students from developing countries pursuing master’s degrees in development-related fields.  
+  Offers scholarships to Japanese mid-career professionals pursuing graduate degrees abroad in development related fields.
   [Learn more](https://www.worldbank.org/en/programs/scholarships)
 
 - **American Association of University Women (AAUW) International Fellowships**  
   Provides funding for women pursuing graduate or postgraduate studies in the U.S.  
   [Learn more](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/)
 
-#### Scholarships (U.S. Embassies and Consulates in Tokyo)
-- **Scholarship Information**  
+#### Resources to Explore Various Scholarship Opportunities
+- **U.S. Embassy and Consulates in Japan**  
   Various scholarships for students studying abroad.  
   [Learn more](https://jp.usembassy.gov/ja/education-ja/scholarships-ja/)
   
-  
-#### Scholarships for Japanese Students
 - **JASSO Scholarships**  
   Japan Student Services Organization offers various scholarships for students studying abroad.  
-  [Learn more](https://www.jasso.go.jp/en/)
+  [Learn more](https://www.jasso.go.jp/ryugaku/scholarship_a/index.html)
 
-- **MEXT Scholarships**  
-  Sponsored by the Japanese government, this scholarship supports students for graduate studies abroad.  
-  [Learn more](https://www.studyinjapan.go.jp/en/planning/scholarship/)
+  - **EducationUSA**  
+  Offers more resources for applicable scholarships.  
+  [Learn more](https://educationusa.jp/steps/scholarship.html)
+
+- **Institute of International Education (IIE) Scholarships**  
+  Offers various grants and fellowships for international PhD students.  
+  [Learn more](https://www.iie.org/)
 
 ### Funding for Master’s Students
 Master’s students can access scholarships, assistantships, and grants to support their education:
@@ -56,8 +58,6 @@ PhD programs often come with robust funding packages:
 - **University Fellowships**: Many U.S. universities provide full tuition waivers and stipends for PhD students.
 - **National Science Foundation (NSF) Graduate Research Fellowship**: A highly competitive fellowship for STEM PhD students.  
   [Learn more](https://www.nsf.gov/science-matters/nsf-101-graduate-research-fellowship-program)
-- **Institute of International Education (IIE) Scholarships**: Offers various grants and fellowships for international PhD students.  
-  [Learn more](https://www.iie.org/)
 
 
 
