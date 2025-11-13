@@ -63,9 +63,8 @@ PhD programs often come with robust funding packages:
 
 
 ### Other Financial Resources
-- **Part-Time Work Opportunities**: International students on an F-1 visa can work up to 20 hours per week on campus. Check with your university for job openings.
+- **Part-Time Work Opportunities**: International students on an F-1 visa can work up to 20 hours per week on campus. Check with your university for job openings and requirements.
 - **External Scholarships**: Organizations like [Scholarships.com](https://www.scholarships.com) and [Fastweb](https://www.fastweb.com) list numerous scholarships available to international students.
-- **Loan Options**: While not ideal, private loans tailored for international students are available through lenders like MPOWER Financing or Prodigy Finance.
 
 {{< figure src="/images/diane-serik-oFK7xgf4_50-unsplash.jpg" caption="Photo by Diane Serik on Unsplash" >}}
 
