@@ -20,7 +20,13 @@ featured_image: "/images/application_process.jpg"
   <li>Refer to our <a href="https://japan-usa-study.github.io/universityselection/">University Selection</a> page.</li>
 </ul>
 
-<h3>Step 2: Prepare Application Documents</h3>
+<h3>Step 2: Apply for Scholarships and Financial Aid</h3>
+<ul>
+  <li>Research scholarships offered by universities and external organizations.</li>
+  <li>Refer to our <a href="https://japan-usa-study.github.io/financialsupport/">Financial Support</a> page.</li>
+</ul>
+
+<h3>Step 3: Prepare Application Documents</h3>
 <ul>
   <p>Most universities will require the following materials for your applications, but please check each universities’ website for details.</p>
   <li><b>Transcripts:</b> Collect official transcripts from your previous institutions.</li>
@@ -30,17 +36,11 @@ featured_image: "/images/application_process.jpg"
   <li><b>Resume/CV:</b> Highlight your academic, extracurricular, and professional achievements.</li>
 </ul>
 
-<h3>Step 3: Submit Applications</h3>
+<h3>Step 4: Submit Applications</h3>
 <ul>
-  <li>Create an account on the university’s application portal
+  <li>Create an account on the university’s application portal.</li>
   <li>Pay attention to deadlines and ensure all documents are uploaded correctly.</li>
   <li>Pay the application fee (if applicable).</li>
-</ul>
-
-<h3>Step 4: Apply for Scholarships and Financial Aid</h3>
-<ul>
-  <li>Research scholarships offered by universities and external organizations.</li>
-  <li>Refer to our <a href="https://japan-usa-study.github.io/financialsupport/">Financial Support</a> page.</li>
 </ul>
 
 <h3>Step 5: Await Results</h3>
@@ -63,7 +63,6 @@ featured_image: "/images/application_process.jpg"
   <li>Attend orientation programs to settle into your new academic life.</li>
 </ul>
 
-<p>If you have questions or need additional support, don’t hesitate to <a href="https://japan-usa-study.github.io/resources/">contact us</a>! We’re here to help you navigate the application process and achieve your dream of studying in the U.S.</p>
 </div>
 {{< /rawhtml >}}
 <!--more-->
