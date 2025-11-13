@@ -17,7 +17,7 @@ featured_image: "/images/application_process.jpg"
 <ul>
   <li>Identify universities that match your academic and personal goals.</li>
   <li>Check application deadlines and specific requirements for each university.</li>
-  <li>Use resources like <a href="https://educationusa.state.gov">EducationUSA</a> and <a href="https://www.usnews.com/best-colleges">U.S. News Rankings</a> to compare options.</li>
+  <li>Refer to our <a href="https://japan-usa-study.github.io/universityselection/">University Selection</a> page.</li>
 </ul>
 
 <h3>Step 2: Prepare Application Documents</h3>
@@ -39,7 +39,7 @@ featured_image: "/images/application_process.jpg"
 <h3>Step 4: Apply for Scholarships and Financial Aid</h3>
 <ul>
   <li>Research scholarships offered by universities and external organizations.</li>
-  <li>Refer to our<a href="https://japan-usa-study.github.io/financialsupport/">Financial Support</a> page.</li>
+  <li>Refer to our <a href="https://japan-usa-study.github.io/financialsupport/">Financial Support</a> page.</li>
 </ul>
 
 <h3>Step 5: Await Results</h3>
