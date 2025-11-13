@@ -39,7 +39,7 @@ featured_image: "/images/application_process.jpg"
 <h3>Step 4: Apply for Scholarships and Financial Aid</h3>
 <ul>
   <li>Research scholarships offered by universities and external organizations.</li>
-  <li>Look for funding options through <a href="https://www.jasso.go.jp/en/index.html">JASSO</a> for Japanese students.</li>
+  <li>Refer to our<a href="https://japan-usa-study.github.io/financialsupport/">Financial Support</a> page.</li>
 </ul>
 
 <h3>Step 5: Await Results</h3>
