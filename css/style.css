@@ -283,6 +283,7 @@ nav ul {
   flex-wrap: wrap;
   gap: 0.5rem;
   width: 100%;
+  margin-left: auto;
 }
 
 nav li {
@@ -304,11 +305,18 @@ nav a:hover {
 }
 
 .nav-title {
-  padding: 1rem;
+  padding: 0.75rem 1rem;
   font-size: 1.25rem;
   font-weight: 700;
   color: #fff;
-  flex-grow: 1;
+  text-decoration: none;
+  transition: background-color 0.15s ease-in;
+  display: block;
+}
+
+.nav-title:hover {
+  background-color: #333;
+  color: #fff;
 }
 
 /* ===== Footer ===== */
