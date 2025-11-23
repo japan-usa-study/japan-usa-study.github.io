@@ -26,10 +26,9 @@
 <body class="bg-near-white">
   <!-- Navigation -->
   <nav>
-    <div class="nav-title">STEMBridge Japan-U.S.</div>
+    <a href="./index.html" class="nav-title" style="text-decoration: none;">STEMBridge Japan-U.S.</a>
     <button class="mobile-menu-toggle" aria-label="Toggle menu">☰</button>
     <ul>
-      <li><a href="./index.html">Home</a></li>
       <li><a href="./UniversitySelection/index.html">University Selection</a></li>
       <li><a href="./ApplicationProcess/index.html">Application Process</a></li>
       <li><a href="./FinancialSupport/index.html">Financial Support</a></li>
@@ -66,7 +65,8 @@
 
     <!-- Main Sections -->
     <div class="pa3 pa4-ns w-100 center">
-      <section class="grid">
+      <!-- Top Row - 3 Cards -->
+      <section class="grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
         <!-- University Selection Card -->
         <a href="./UniversitySelection/index.html" class="card link no-underline" style="cursor: pointer;">
           <img src="./static/images/intelligent-students-working-classroom.jpg" alt="University Selection" class="card-image">
@@ -93,7 +93,10 @@
             <p class="card-description">Explore scholarships, grants, and funding opportunities for international students from Japan.</p>
           </div>
         </a>
+      </section>
 
+      <!-- Bottom Row - 2 Centered Cards -->
+      <section class="grid" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem; margin: 2rem auto; max-width: 700px;">
         <!-- Student Life Card -->
         <a href="./StudentLifeInTheUSA/index.html" class="card link no-underline" style="cursor: pointer;">
           <img src="./static/images/student_life_1.jpg" alt="Student Life" class="card-image">
@@ -134,23 +137,13 @@
         <img src="./static/images/USJPNLogo.png" alt="U.S. Embassy Tokyo Logo" style="width: 80px;">
       </div>
       <p class="footer-disclaimer">
-        This website was funded in part by a grant from the United States Embassy Tokyo. 
+        This website was funded in part by a grant from the United States Embassy Tokyo to MSU. 
         The opinions, findings and conclusions stated herein are those of the authors and do not necessarily 
         reflect those of the United States Embassy Tokyo.
       </p>
+      <p><small>&copy; <span id="year">2025</span> Michigan State University</small></p>
     </div>
   </footer>
-
-  <!-- Clustrmaps Tracking (only load when served over HTTP/HTTPS) -->
-  <script>
-    if (window.location.protocol !== 'file:') {
-      var script = document.createElement('script');
-      script.type = 'text/javascript';
-      script.id = 'clustrmaps';
-      script.src = 'https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=Pg2LMyTQJxrAXWxFxy8Ai1MQI2bpe_MuhVjCpIxYCI0';
-      document.body.appendChild(script);
-    }
-  </script>
 
   <script src="./js/script.js"></script>
 </body>

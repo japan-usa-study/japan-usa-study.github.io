@@ -1,3 +1,13 @@
+/* ===== Washi Paper Background ===== */
+:root {
+  --washi-base: #fdfdf7;          /* soft off-white */
+  --washi-warm: #f7f3ea;          /* warm tint */
+  --washi-fiber: rgba(180, 170, 150, 0.08);
+  --washi-fiber-2: rgba(160, 150, 130, 0.06);
+  --washi-grain: rgba(120, 110, 90, 0.05);
+  --washi-speck: rgba(80, 70, 60, 0.06);
+}
+
 /* ===== Global Styles ===== */
 * {
   box-sizing: border-box;
@@ -9,7 +19,7 @@ html, body {
   font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
   line-height: 1.5;
   color: #555;
-  background-color: #f4f4f4;
+  background-color: var(--washi-base);
   height: 100%;
 }
 
@@ -17,6 +27,122 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  position: relative;
+  /* very subtle vertical tone variation */
+  background-image:
+    linear-gradient(180deg, var(--washi-warm) 0%, transparent 60%),
+    linear-gradient(0deg, transparent 0%, rgba(255,255,255,0.5) 100%);
+}
+
+/* Texture overlay via layered gradients */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  mix-blend-mode: multiply;
+  opacity: 0.9;
+  z-index: -1;
+
+  /* Layered gradients:
+     - soft diagonal fibers
+     - fine cross fibers
+     - subtle grain
+     - tiny speckles
+  */
+  background-image:
+    /* diagonal fibers */
+    repeating-linear-gradient(
+      25deg,
+      var(--washi-fiber) 0 2px,
+      transparent 2px 8px
+    ),
+    repeating-linear-gradient(
+      155deg,
+      var(--washi-fiber-2) 0 1.5px,
+      transparent 1.5px 7px
+    ),
+
+    /* cross fibers (very faint) */
+    repeating-linear-gradient(
+      0deg,
+      rgba(160, 160, 160, 0.025) 0 1px,
+      transparent 1px 6px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      rgba(160, 160, 160, 0.02) 0 1px,
+      transparent 1px 6px
+    ),
+
+    /* diffuse grain */
+    radial-gradient(
+      circle at 20% 30%,
+      var(--washi-grain) 0 2px,
+      transparent 3px
+    ),
+    radial-gradient(
+      circle at 80% 25%,
+      var(--washi-grain) 0 2px,
+      transparent 3px
+    ),
+    radial-gradient(
+      circle at 35% 75%,
+      var(--washi-grain) 0 2px,
+      transparent 3px
+    ),
+    radial-gradient(
+      circle at 65% 60%,
+      var(--washi-grain) 0 2px,
+      transparent 3px
+    ),
+
+    /* tiny speckles */
+    repeating-radial-gradient(
+      circle at 10% 15%,
+      var(--washi-speck) 0 0.8px,
+      transparent 1.2px 8px
+    ),
+    repeating-radial-gradient(
+      circle at 90% 10%,
+      var(--washi-speck) 0 0.8px,
+      transparent 1.2px 8px
+    ),
+    repeating-radial-gradient(
+      circle at 25% 85%,
+      var(--washi-speck) 0 0.8px,
+      transparent 1.2px 8px
+    ),
+    repeating-radial-gradient(
+      circle at 75% 70%,
+      var(--washi-speck) 0 0.8px,
+      transparent 1.2px 8px
+    );
+
+  background-size:
+    /* fibers */
+    100% 100%, 100% 100%,
+    /* cross fibers */
+    100% 100%, 100% 100%,
+    /* grain */
+    100% 100%, 100% 100%, 100% 100%, 100% 100%,
+    /* speckles */
+    100% 100%, 100% 100%, 100% 100%, 100% 100%;
+
+  /* slight offset to avoid perfect uniformity */
+  transform: translateZ(0);
+  filter: saturate(0.95) contrast(1.02);
+}
+
+/* Optional: subtle vignette to add paper depth */
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: -1;
+  background:
+    radial-gradient(120% 120% at 50% 50%, transparent 60%, rgba(0, 0, 0, 0.03) 100%);
 }
 
 a {
@@ -101,7 +227,7 @@ pre code {
 
 /* ===== Header & Navigation ===== */
 header {
-  background-color: #000;
+  background-color: rgba(0, 0, 0, 0.3);
   color: #fff;
   padding: 0;
   margin-bottom: 2rem;
@@ -124,7 +250,7 @@ header.with-image::before {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.3);
   z-index: 1;
 }
 
@@ -141,6 +267,12 @@ nav {
   justify-content: flex-start;
   flex-wrap: wrap;
   align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  width: 100%;
 }
 
 nav ul {
@@ -236,6 +368,7 @@ main {
   display: flex;
   justify-content: center;
   width: 100%;
+  padding-top: 60px;
 }
 
 article {
@@ -471,6 +604,28 @@ input[type='submit']:hover {
 .button-primary:hover {
   background-color: #00449e;
   border-color: #00449e;
+}
+
+/* ===== Next Page Navigation Button ===== */
+.next-page-btn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: #003d7a;
+  color: #fff;
+  border: 2px solid #003d7a;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 500;
+  transition: all 0.15s ease-in;
+  margin-top: 1.5rem;
+}
+
+.next-page-btn:hover {
+  background-color: #00449e;
+  border-color: #00449e;
+  transform: translateX(4px);
 }
 
 /* ===== Card Style ===== */
@@ -1027,6 +1182,45 @@ article ul li {
     min-width: auto;
     width: 100%;
   }
+}
+
+/* ===== Japan Centers Map ===== */
+#japan-centers-map {
+  width: 100%;
+  max-width: 50vw;
+  height: 500px;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin: 2rem auto;
+}
+
+.leaflet-container {
+  font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+}
+
+.japan-center-popup {
+  font-size: 0.875rem;
+}
+
+.japan-center-popup h4 {
+  margin: 0 0 0.5rem 0;
+  color: #003d7a;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.japan-center-popup p {
+  margin: 0.5rem 0;
+}
+
+.japan-center-popup a {
+  color: #357edd;
+  text-decoration: none;
+  transition: color 0.15s ease-in;
+}
+
+.japan-center-popup a:hover {
+  color: #96ccff;
 }
 
 /* ===== Print Styles ===== */

@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="STEMBridge Japan-U.S. - Global Student Distribution Heatmap. See where Japanese students studying in the USA are located.">
+  <meta name="google-site-verification" content="rnyRL5-16e-sCYI_9VioNwAbf1PbFAhhqgdOUYLHD0U">
+  <meta name="google-analytics" content="G-V819GP044B">
+  
+  <title>Student Distribution Heatmap - STEMBridge Japan-U.S.</title>
+  
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="icon" type="image/x-icon" href="../static/favicon.ico">
+  <link rel="apple-touch-icon" href="../static/apple-touch-icon.png">
+  
+  <style>
+    .heatmap-container {
+      max-width: 1200px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    .heatmap-header {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+
+    .heatmap-header h1 {
+      font-size: 2.25rem;
+      color: #000;
+      margin-bottom: 1rem;
+    }
+
+    .heatmap-header p {
+      font-size: 1.1rem;
+      color: #555;
+      max-width: 800px;
+      margin: 0 auto 1.5rem;
+      line-height: 1.6;
+    }
+
+    .heatmap-widget {
+      background-color: #fff;
+      border-radius: 0.5rem;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+      min-height: 500px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .heatmap-info-section {
+      background-color: #f9f9f9;
+      border-left: 4px solid #003d7a;
+      border-radius: 0.5rem;
+      padding: 1.5rem;
+      margin: 2rem 0;
+    }
+
+    .heatmap-info-section h2 {
+      color: #003d7a;
+      font-size: 1.5rem;
+      margin-top: 0;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 2rem;
+      margin-top: 1.5rem;
+    }
+
+    .info-box {
+      background-color: #fff;
+      padding: 1.5rem;
+      border-radius: 0.5rem;
+      border: 1px solid #e0e0e0;
+      transition: all 0.3s ease;
+    }
+
+    .info-box:hover {
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      transform: translateY(-2px);
+    }
+
+    .info-box h3 {
+      color: #003d7a;
+      font-size: 1.25rem;
+      margin-top: 0;
+    }
+
+    .info-box p {
+      color: #555;
+      line-height: 1.6;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 0.75rem;
+    }
+
+    .legend-color {
+      width: 20px;
+      height: 20px;
+      border-radius: 2px;
+      margin-right: 1rem;
+      flex-shrink: 0;
+    }
+
+    .intensity-high {
+      background-color: #d62828;
+    }
+
+    .intensity-medium {
+      background-color: #f77f00;
+    }
+
+    .intensity-low {
+      background-color: #fcbf49;
+    }
+
+    @media (max-width: 768px) {
+      .heatmap-header h1 {
+        font-size: 1.75rem;
+      }
+
+      .heatmap-widget {
+        min-height: 350px;
+        padding: 1rem;
+      }
+
+      .info-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+      }
+    }
+  </style>
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-V819GP044B"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-V819GP044B');
+  </script>
+</head>
+<body class="bg-near-white">
+  <!-- Navigation -->
+  <nav>
+    <a href="../index.html" class="nav-title" style="text-decoration: none;">STEMBridge Japan-U.S.</a>
+    <button class="mobile-menu-toggle" aria-label="Toggle menu">☰</button>
+    <ul>
+      <li><a href="../UniversitySelection/index.html">University Selection</a></li>
+      <li><a href="../ApplicationProcess/index.html">Application Process</a></li>
+      <li><a href="../FinancialSupport/index.html">Financial Support</a></li>
+      <li><a href="../StudentLifeInTheUSA/index.html">Student Life</a></li>
+      <li><a href="../JapanCenters/index.html">Japan Centers</a></li>
+    </ul>
+  </nav>
+
+  <!-- Header -->
+  <header class="with-image" style="background-image: url('../static/images/mapbox-ZT5v0puBjZI-unsplash.jpg');">
+    <div class="header-content pa3 pa4-ns tc-ns">
+      <h1 class="f-headline-l f2 white-90 mb0">Student Distribution Map</h1>
+      <p class="f3-l f5 white-80 mt3">Global Network of Japanese Students in the USA</p>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <div class="heatmap-container">
+    <!-- Header Section -->
+    <div class="heatmap-header">
+      <h1>Student Network Heatmap</h1>
+      <p>This interactive map visualizes where Japanese students studying in the USA are concentrated. The intensity of the colors indicates the density of students in different regions, helping prospective students understand the distribution of the Japanese academic community across the United States.</p>
+    </div>
+
+    <!-- Heatmap Widget -->
+    <div class="heatmap-widget">
+      <!-- Clustrmaps Tracking (only load when served over HTTP/HTTPS) -->
+      <script>
+        if (window.location.protocol !== 'file:') {
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.id = 'clustrmaps';
+          script.src = 'https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=Pg2LMyTQJxrAXWxFxy8Ai1MQI2bpe_MuhVjCpIxYCI0';
+          document.body.appendChild(script);
+        }
+      </script>
+    </div>
+
+    <!-- Information Section -->
+    <div class="heatmap-info-section">
+      <h2>What This Map Shows</h2>
+      <p>The heatmap displays the geographic distribution of Japanese students and visitors to the STEMBridge Japan-U.S. platform. This data reflects the real-time engagement and interest from different regions across the United States, showing where the Japanese academic community is most active and engaged with our resources.</p>
+    </div>
+
+    <!-- How to Interpret Section -->
+    <div class="info-grid">
+      <div class="info-box">
+        <h3>📍 How to Read the Map</h3>
+        <p><strong>Color Intensity:</strong> The brightness and saturation of colors indicate the concentration of student visits to this platform:</p>
+        <div style="margin-top: 1rem;">
+          <div class="legend-item">
+            <div class="legend-color intensity-high"></div>
+            <span><strong>High Density:</strong> Major concentration of users</span>
+          </div>
+          <div class="legend-item">
+            <div class="legend-color intensity-medium"></div>
+            <span><strong>Medium Density:</strong> Moderate concentration</span>
+          </div>
+          <div class="legend-item">
+            <div class="legend-color intensity-low"></div>
+            <span><strong>Low Density:</strong> Minimal concentration</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="info-box">
+        <h3>💡 Why This Matters</h3>
+        <p>Understanding where Japanese students are concentrated can help you:</p>
+        <ul style="margin-bottom: 0;">
+          <li>Identify major academic hubs and university clusters</li>
+          <li>Connect with peers in regions where many Japanese students study</li>
+          <li>Understand popular destinations for international students</li>
+          <li>Make informed decisions about your university location preferences</li>
+        </ul>
+      </div>
+
+      <div class="info-box">
+        <h3>🌐 Platform Analytics</h3>
+        <p>This map is updated regularly and reflects real-time platform usage by Japanese students and prospective students interested in studying in the USA. It provides valuable insights into the distribution and preferences of our academic community across different regions.</p>
+      </div>
+    </div>
+
+    <!-- Additional Context -->
+    <div class="heatmap-info-section">
+      <h2>Additional Context</h2>
+      <p><strong>Data Source:</strong> This heatmap is powered by Clustrmaps visitor analytics and shows the geographic distribution of platform visitors over time.</p>
+      <p><strong>Use This Information To:</strong></p>
+      <ul>
+        <li>Identify established Japanese student communities in different regions</li>
+        <li>Recognize areas where Japanese Centers and study programs may be located</li>
+        <li>Understand the geographic diversity of our user base</li>
+        <li>Connect with other Japanese students in your area of interest</li>
+      </ul>
+      <p><strong>Note:</strong> This map represents platform engagement and should be used as one of many factors when choosing a university. Consider academic rankings, program quality, location preferences, and personal goals when making your decision.</p>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-content">
+      <p><strong>Funded by <a href="https://jp.usembassy.gov/" target="_blank" rel="noopener noreferrer">U.S. Embassy Tokyo</a></strong></p>
+      <p>Created by <a href="https://msu.edu" target="_blank" rel="noopener noreferrer">Michigan State University</a></p>
+      <div class="footer-logos">
+        <img src="../static/images/960px-Flag_of_the_United_States.svg.png" alt="United States Flag" style="width: 110px;">
+        <img src="../static/images/USJPNLogo.png" alt="U.S. Embassy Tokyo Logo" style="width: 80px;">
+      </div>
+      <p class="footer-disclaimer">
+        This website was funded in part by a grant from the United States Embassy Tokyo to MSU. 
+        The opinions, findings and conclusions stated herein are those of the authors and do not necessarily 
+        reflect those of the United States Embassy Tokyo.
+      </p>
+      <p><small>&copy; <span id="year">2025</span> Michigan State University</small></p>
+    </div>
+  </footer>
+
+  <script src="../js/script.js"></script>
+</body>
+</html>
+
