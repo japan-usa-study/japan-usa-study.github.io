@@ -185,6 +185,110 @@
         lng: -84.2807,
         url: "https://modlang.fsu.edu/japanese",
         linkText: "Visit FSU Japanese Studies →"
+      },
+      {
+        name: "Japanese Student Association – University of Chicago",
+        city: "Chicago, IL",
+        lat: 41.7896,
+        lng: -87.5996,
+        url: "https://jsa.uchicago.edu/",
+        linkText: "Visit JSA UChicago →"
+      },
+      {
+        name: "Japanese Student Association – UC Irvine",
+        city: "Irvine, CA",
+        lat: 33.6406,
+        lng: -117.8443,
+        url: "https://campusgroups.uci.edu/jsairvine/",
+        linkText: "Visit JSA UCI →"
+      },
+      {
+        name: "Stanford Japanese Association – Stanford University",
+        city: "Stanford, CA",
+        lat: 37.4275,
+        lng: -122.1697,
+        url: "https://sja.stanford.edu/eng_about.html",
+        linkText: "Visit SJA Stanford →"
+      },
+      {
+        name: "Japan US Association – Cornell University",
+        city: "Ithaca, NY",
+        lat: 42.4534,
+        lng: -76.4735,
+        url: "https://cornellsa.org/",
+        linkText: "Visit JUSA Cornell →"
+      },
+      {
+        name: "Japanese Culture Club – University of South Florida",
+        city: "Tampa, FL",
+        lat: 28.0596,
+        lng: -82.4132,
+        url: "https://bullsconnect.usf.edu/jcc/home/",
+        linkText: "Visit Japanese Culture Club USF →"
+      },
+      {
+        name: "Japanese Student Association – UMass Lowell",
+        city: "Lowell, MA",
+        lat: 42.6342,
+        lng: -71.3243,
+        url: "https://www.uml.edu/",
+        linkText: "Visit UML JSA →"
+      },
+      {
+        name: "Japanese Club – Carthage College",
+        city: "Kenosha, WI",
+        lat: 42.5847,
+        lng: -87.8385,
+        url: "https://www.carthage.edu/",
+        linkText: "Visit Carthage Japanese Club →"
+      },
+      {
+        name: "American x Japanese Cross Cultural Club – Cal State San Bernardino",
+        city: "San Bernardino, CA",
+        lat: 34.1381,
+        lng: -117.4898,
+        url: "https://www.csusb.edu/",
+        linkText: "Visit AxJ CSUSB →"
+      },
+      {
+        name: "Japanese & American Student Association – Old Dominion University",
+        city: "Norfolk, VA",
+        lat: 36.8754,
+        lng: -76.3033,
+        url: "https://www.odu.edu/",
+        linkText: "Visit JASA ODU →"
+      },
+      {
+        name: "Japanese Culture Club – University of Alabama at Birmingham",
+        city: "Birmingham, AL",
+        lat: 33.5038,
+        lng: -86.8104,
+        url: "https://www.uab.edu/",
+        linkText: "Visit Japanese Culture Club UAB →"
+      },
+      {
+        name: "Japanese Student Association – Western Washington University",
+        city: "Bellingham, WA",
+        lat: 48.7519,
+        lng: -122.3080,
+        url: "https://mss.wwu.edu/",
+        linkText: "Visit JSA WWU →"
+      },
+      {
+        name: "Japan Club – University of Notre Dame",
+        city: "Notre Dame, IN",
+        lat: 41.7011,
+        lng: -86.2381,
+        url: "https://eastasian.nd.edu/",
+        linkText: "Visit Japan Club Notre Dame →"
+      },
+      {
+        name: "Gakusei Kai – University of Southern California",
+        city: "Los Angeles, CA",
+        lat: 34.0195,
+        lng: -118.2882,
+        url: "https://www.usc.edu/",
+        linkText: "Visit Gakusei Kai USC →"
       }
     ];
 
@@ -226,6 +330,11 @@
       });
       marker.on('mouseout', function() {
         this.closePopup();
+      });
+      
+      // Click marker to open the link
+      marker.on('click', function() {
+        window.open(center.url, '_blank');
       });
     });
   </script>
