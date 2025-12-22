@@ -151,6 +151,12 @@ a:hover {
   color: #96ccff;
 }
 
+a:focus {
+  outline: 3px solid #357edd;
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
 /* ===== Typography ===== */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
@@ -186,7 +192,14 @@ h6 {
 p {
   margin: 0;
   margin-bottom: 1rem;
-  line-height: 1.5;
+  line-height: 1.6;
+}
+
+/* Ensure sufficient spacing for readability */
+article p,
+article li {
+  margin-bottom: 1rem;
+  line-height: 1.6;
 }
 
 blockquote {
@@ -219,6 +232,25 @@ pre code {
   background-color: transparent;
   padding: 0;
   color: inherit;
+}
+
+/* ===== Skip to Main Content Link ===== */
+.skip-to-main {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: #000;
+  color: #fff;
+  padding: 8px;
+  text-decoration: none;
+  z-index: 100;
+  border-radius: 0 0 4px 0;
+}
+
+.skip-to-main:focus {
+  top: 0;
+  outline: 3px solid #357edd;
+  outline-offset: 2px;
 }
 
 /* ===== Header & Navigation ===== */
@@ -298,6 +330,12 @@ nav a {
 nav a:hover {
   background-color: #333;
   color: #fff;
+}
+
+nav a:focus {
+  outline: 3px solid #357edd;
+  outline-offset: 2px;
+  background-color: #333;
 }
 
 .nav-title {
@@ -436,8 +474,9 @@ input[type='tel']:focus,
 input[type='password']:focus,
 textarea:focus,
 select:focus {
-  outline: 2px solid #357edd;
-  outline-offset: -2px;
+  outline: 3px solid #357edd;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 3px rgba(53, 126, 221, 0.1);
 }
 
 textarea {
@@ -461,6 +500,13 @@ input[type='submit'] {
 
 button:hover,
 input[type='submit']:hover {
+  background-color: #333;
+}
+
+button:focus,
+input[type='submit']:focus {
+  outline: 3px solid #357edd;
+  outline-offset: 2px;
   background-color: #333;
 }
 
@@ -631,6 +677,12 @@ input[type='submit']:hover {
   transform: translateX(4px);
 }
 
+.next-page-btn:focus {
+  outline: 3px solid #357edd;
+  outline-offset: 2px;
+  background-color: #00449e;
+}
+
 /* ===== Card Style ===== */
 .card {
   background-color: #fff;
@@ -641,6 +693,12 @@ input[type='submit']:hover {
 }
 
 .card:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card:focus-within {
+  outline: 3px solid #357edd;
+  outline-offset: 2px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
@@ -848,6 +906,12 @@ input[type='submit']:hover {
 
 .mobile-menu-toggle:hover {
   opacity: 0.8;
+}
+
+.mobile-menu-toggle:focus {
+  outline: 3px solid #357edd;
+  outline-offset: 2px;
+  border-radius: 2px;
 }
 
 .mobile-menu-toggle.active::before {
@@ -1195,6 +1259,11 @@ article ul li {
   border-radius: 0.5rem;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   margin: 2rem auto;
+}
+
+#japan-centers-map:focus {
+  outline: 3px solid #357edd;
+  outline-offset: 2px;
 }
 
 .leaflet-container {

@@ -33,6 +33,9 @@
   <link rel="icon" type="image/x-icon" href="./static/favicon.ico">
   <link rel="apple-touch-icon" href="./static/apple-touch-icon.png">
   
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-V819GP044B"></script>
   <script>
@@ -76,6 +79,9 @@
   </script>
 </head>
 <body class="bg-near-white">
+  <!-- Skip to Main Content -->
+  <a href="#main-content" class="skip-to-main">Skip to main content</a>
+  
   <!-- Navigation -->
   <nav>
     <a href="./" class="nav-title" style="text-decoration: none;">STEMBridge Japan-U.S.</a>
@@ -115,13 +121,28 @@
       </figure>
     </article>
 
+  <!-- Statistics Chart Section -->
+  <section class="ph3 ph5-l pv4 pv5-l center w-90-l" style="max-width: 1200px; margin: 0 auto;">
+    <div class="bg-light-gray pa4 br3">
+      <h2 class="f3 mt0 mb3">Growing Interest in U.S. Education</h2>
+      <p class="lh-copy mb4">Studying abroad in the United States is becoming increasingly popular among international students. The data below shows the steady growth in the number of international students choosing American universities, along with the rising participation in Optional Practical Training (OPT) programs that provide valuable post-graduation work experience.</p>
+      
+      <div style="position: relative; height: 400px; margin: 2rem 0;">
+        <canvas id="studentStatisticsChart"></canvas>
+      </div>
+      
+      <p class="f6 gray i mt3 mb0">Data source: Open Doors Report, Institute of International Education</p>
+    </div>
+  </section>
+
     <!-- Main Sections -->
+    <main id="main-content">
     <div class="pa3 pa4-ns w-100 center">
       <!-- Top Row - 3 Cards -->
       <section class="grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
         <!-- University Selection Card -->
         <a href="UniversitySelection/" class="card link no-underline" style="cursor: pointer;">
-          <img src="./static/images/intelligent-students-working-classroom.jpg" alt="University Selection" class="card-image">
+          <img src="./static/images/intelligent-students-working-classroom.jpg" alt="" class="card-image" role="presentation">
           <div class="card-content">
             <h3 class="card-title">University Selection</h3>
             <p class="card-description">Find the right university for your academic goals. Explore rankings, locations, programs, and financial aid options.</p>
@@ -130,7 +151,7 @@
 
         <!-- Application Process Card -->
         <a href="ApplicationProcess/" class="card link no-underline" style="cursor: pointer;">
-          <img src="./static/images/scholarship-application-form-foundation-concept.jpg" alt="Application Process" class="card-image">
+          <img src="./static/images/scholarship-application-form-foundation-concept.jpg" alt="" class="card-image" role="presentation">
           <div class="card-content">
             <h3 class="card-title">Application Process</h3>
             <p class="card-description">Step-by-step guidance on preparing documents, submitting applications, and securing your F-1 student visa.</p>
@@ -139,7 +160,7 @@
 
         <!-- Financial Support Card -->
         <a href="FinancialSupport/" class="card link no-underline" style="cursor: pointer;">
-          <img src="./static/images/Tiny students sitting near books getting university degree.jpg" alt="Financial Support" class="card-image">
+          <img src="./static/images/Tiny students sitting near books getting university degree.jpg" alt="" class="card-image" role="presentation">
           <div class="card-content">
             <h3 class="card-title">Financial Support</h3>
             <p class="card-description">Explore scholarships, grants, and funding opportunities for international students from Japan.</p>
@@ -151,7 +172,7 @@
       <section class="grid" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem; margin: 2rem auto; max-width: 700px;">
         <!-- Student Life Card -->
         <a href="StudentLifeInTheUSA/" class="card link no-underline" style="cursor: pointer;">
-          <img src="./static/images/student_life_1.jpg" alt="Student Life" class="card-image">
+          <img src="./static/images/student_life_1.jpg" alt="" class="card-image" role="presentation">
           <div class="card-content">
             <h3 class="card-title">Student Life in the USA</h3>
             <p class="card-description">Discover campus culture, housing options, social activities, and what to expect as an international student.</p>
@@ -160,7 +181,7 @@
 
         <!-- Japan Centers Card -->
         <a href="JapanCenters/" class="card link no-underline" style="cursor: pointer;">
-          <img src="./static/images/japanese-studies.jpg" alt="Japan Centers" class="card-image">
+          <img src="./New Images - Dylan/558287399_1375007674624300_4722396912670555543_n.jpg" alt="" class="card-image" role="presentation">
           <div class="card-content">
             <h3 class="card-title">Japan Centers</h3>
             <p class="card-description">Learn about Japanese study centers and programs available at universities across the USA.</p>
@@ -178,6 +199,7 @@
         -->
       </section>
     </div>
+    </main>
 
   <!-- Footer -->
   <footer>
@@ -198,6 +220,126 @@
   </footer>
 
   <script src="./js/script.js"></script>
+  
+  <!-- Student Statistics Chart -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const ctx = document.getElementById('studentStatisticsChart');
+      
+      if (ctx) {
+        new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels: ['2020/21', '2021/22', '2022/23', '2023/24', '2024/25'],
+            datasets: [
+              {
+                label: 'International Students',
+                data: [710210, 763760, 858395, 883908, 883513],
+                borderColor: '#003d7a',
+                backgroundColor: 'rgba(0, 61, 122, 0.1)',
+                borderWidth: 3,
+                fill: true,
+                tension: 0.4,
+                pointRadius: 5,
+                pointHoverRadius: 7,
+                pointBackgroundColor: '#003d7a',
+                pointBorderColor: '#fff',
+                pointBorderWidth: 2
+              },
+              {
+                label: 'Optional Practical Training (OPT)',
+                data: [203885, 184759, 198793, 242782, 294253],
+                borderColor: '#d62828',
+                backgroundColor: 'rgba(214, 40, 40, 0.1)',
+                borderWidth: 3,
+                fill: true,
+                tension: 0.4,
+                pointRadius: 5,
+                pointHoverRadius: 7,
+                pointBackgroundColor: '#d62828',
+                pointBorderColor: '#fff',
+                pointBorderWidth: 2
+              }
+            ]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+              legend: {
+                display: true,
+                position: 'top',
+                labels: {
+                  font: {
+                    family: '-apple-system, BlinkMacSystemFont, "avenir next", avenir, "helvetica neue", helvetica, ubuntu, roboto, noto, "segoe ui", arial, sans-serif',
+                    size: 14
+                  },
+                  padding: 15,
+                  usePointStyle: true,
+                  pointStyle: 'circle'
+                }
+              },
+              tooltip: {
+                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                padding: 12,
+                titleFont: {
+                  size: 14,
+                  weight: 'bold'
+                },
+                bodyFont: {
+                  size: 13
+                },
+                callbacks: {
+                  label: function(context) {
+                    let label = context.dataset.label || '';
+                    if (label) {
+                      label += ': ';
+                    }
+                    label += new Intl.NumberFormat('en-US').format(context.parsed.y);
+                    return label;
+                  }
+                }
+              }
+            },
+            scales: {
+              y: {
+                beginAtZero: false,
+                ticks: {
+                  font: {
+                    family: '-apple-system, BlinkMacSystemFont, "avenir next", avenir, "helvetica neue", helvetica, ubuntu, roboto, noto, "segoe ui", arial, sans-serif',
+                    size: 12
+                  },
+                  color: '#555',
+                  callback: function(value) {
+                    return new Intl.NumberFormat('en-US', {
+                      notation: 'compact',
+                      maximumFractionDigits: 1
+                    }).format(value);
+                  }
+                },
+                grid: {
+                  color: 'rgba(0, 0, 0, 0.1)',
+                  drawBorder: false
+                }
+              },
+              x: {
+                ticks: {
+                  font: {
+                    family: '-apple-system, BlinkMacSystemFont, "avenir next", avenir, "helvetica neue", helvetica, ubuntu, roboto, noto, "segoe ui", arial, sans-serif',
+                    size: 12
+                  },
+                  color: '#555'
+                },
+                grid: {
+                  display: false
+                }
+              }
+            }
+          }
+        });
+      }
+    });
+  </script>
 </body>
 </html>
 
